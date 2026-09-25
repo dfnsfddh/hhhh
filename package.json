@@ -1,0 +1,9 @@
+{
+  "name": "anonymous-bot",
+  "version": "1.0.0",
+  "description": "An anonymous messaging Telegram bot",
+  "main": "bot.js",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
